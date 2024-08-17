@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+}
+/* body{
+    background-image: url(../images/spidey.jpg);
+} */
+.blog{
+    border: 10px solid blue;
+    border-radius: 5px;
+    box-shadow: 5px 10px 10px rgb(21, 153, 153);
+    margin: 20px;
+    padding: 10px
+}
+#home{
+    color: white;
+    background-color: rgb(14, 44, 0);
+}
+#list{
+    border: 10px solid gray;
+    margin: 15px;
+    padding: 20px;
+    
+}
+#display{
+    /* display: none; */
+    visibility: hidden;
+}
